@@ -9,7 +9,7 @@ The institutions involved are:
 - [ICC@Universidad de Buenos Aires](https://icc.fcen.uba.ar/)
 - [FAMAF@Universidad de Córdoba](https://www.famaf.unc.edu.ar)
 
-# Logics and Dynamics of Programming Languages Team
+# Validation and Verification of Concurrent Distributed Systems Team
 
 Our research team focuses on the formal analysis of complex software systems. We are interested in giving formal semantics to several aspects of modern programming languages, with an emphasis in concurrency and distribution. We aimed at contributing to the development of solid techniques to reason about applications. In particular, we look for novel approaches for (i) validating and verifying of concurrent and distributed systems; (ii) ensuring the correct implementation of interaction protocols; (iii) reasoning about complex data structures and consistency in the presence of replication;  (iv) studying how to efficiently implement programming language execution environments.  
 
